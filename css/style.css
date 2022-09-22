@@ -71,3 +71,7 @@ font-weight: 100;
     margin-left: 40px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.tabledata, ch, td{
+    border: 1px;
+margin-left:40px;
+}
