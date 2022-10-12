@@ -60,10 +60,8 @@ font-size: 20px;
 font-weight: 100;
 }
 .datatable{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 24px;
-    margin-left: 35px;
-    color: rgb(30, 30, 30);
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-top: 60px;
 }
 .alltables{
     font-size: 20px;
@@ -74,4 +72,91 @@ font-weight: 100;
 .tabledata, ch, td{
     border: 1px;
 margin-left:40px;
+}
+.order{
+    
+}
+.text{
+    color: #424242;
+}
+.code{
+    color: red;
+}
+.cell{
+    background-color: #eafbfc;
+}
+.conatiner{
+    display: block;
+    height: 1000px;
+}
+.end{width: auto;
+height: 1000px;
+background-color: #2f3847;
+}
+.plugin{color: #adadad;
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    }
+ .content{
+    color: #adadad;
+    margin-left: 25px;
+
+ }
+ .content2{
+    margin-right: 350px;
+    color: #adadad;
+    margin-top: 100px;}
+
+.second{
+    margin-right: 150px;}
+    .login{
+        margin-left: 600px;
+        margin-top: -700px;
+    }
+    .footer{
+       background-color: rgb(53, 53, 53);
+       width: auto;
+       height: 300px;
+    
+    }
+    .column {
+        float: left;
+        width: 25%;
+        color: rgb(162, 162, 162);
+        padding-top: 20px;
+        size: 28px;
+      }
+.footer img{
+height: 35px;
+width: 35px;
+padding-right: 10px;
+
+ }
+      .footerheading{
+text-align: left;
+
+}
+.footer .footertext{
+font-size: large;
+
+}
+.footer p{
+    font-size: 24px;
+
+}
+.fa{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+
+}
+.footer .copyright{
+font-size: small;
 }
