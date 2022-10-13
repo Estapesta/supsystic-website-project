@@ -1,0 +1,160 @@
+.conatiner{
+    display: block;
+    height: 500px;
+
+}
+.header{
+width: auto; 
+height: 120px;
+background-color:#2f3847;
+}
+.logo{
+margin-left: 50px;
+margin-top: 40px;
+height: 50px;}
+.row{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.name{
+    color: #fff;
+    margin: left 80px;
+    margin-top: 40px;
+}
+.block{
+width: 150px;
+float: left;
+}
+nav,ul{
+margin: 0px; 
+overflow: hidden;
+padding: 0px;
+}
+ul.topnav li{
+    list-style-type: none;
+    float: left;
+    color: #fff;
+margin-top: 30px;
+}
+ul.topnav li a{
+display: block;
+text-decoration: none;
+color:white;
+padding-top: 20px;
+padding-right: 25px;
+}
+.example{
+background-color: #52bac5;
+   width: auto;
+height: 50px;
+margin-top: -40px;
+}
+.eg{
+    color: rgb(76, 76, 76);
+    padding-left: 60px;
+    padding-top: 10px;
+font-variant: small-caps;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 100;
+}
+.datatable{
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-top: 60px;
+}
+.alltables{
+    font-size: 20px;
+    color: rgb(38, 38, 38);
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tabledata, ch, td{
+    border: 1px;
+margin-left:40px;
+}
+
+.text{
+    color: #424242;
+}
+.code{
+    color: red;
+}
+.cell{
+    background-color: #eafbfc;
+}
+.conatiner{
+    display: block;
+    height: 1000px;
+}
+.end{width: auto;
+height: 1000px;
+background-color: #2f3847;
+}
+.plugin{color: #adadad;
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    }
+ .content{
+    color: #adadad;
+    margin-left: 25px;
+
+ }
+ .content2{
+    margin-right: 350px;
+    color: #adadad;
+    margin-top: 100px;}
+
+.second{
+    margin-right: 150px;}
+    .login{
+        margin-left: 600px;
+        margin-top: -700px;
+    }
+    .footer{
+       background-color: rgb(53, 53, 53);
+       width: auto;
+       height: 300px;
+    
+    }
+    .column {
+        float: left;
+        width: 25%;
+        color: rgb(162, 162, 162);
+        padding-top: 20px;
+        size: 28px;
+      }
+.footer img{
+height: 35px;
+width: 35px;
+padding-right: 10px;
+
+ }
+      .footerheading{
+text-align: left;
+
+}
+.footer .footertext{
+font-size: large;
+
+}
+.footer p{
+    font-size: 24px;
+
+}
+.fa{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+
+}
+.footer .copyright{
+font-size: small;
+}
