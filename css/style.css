@@ -193,4 +193,8 @@ font-size: small;
   input[type=submit]:hover {
     background-color: #45a049;
   }
-  
+  table, th, td {
+    border: solid 1px black;
+  width: 500px;
+  padding: 10px;
+}
